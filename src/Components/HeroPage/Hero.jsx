@@ -7,6 +7,7 @@ import Herov4 from "./Herov4";
 import Herov5 from "./Herov5";
 import Herov6 from "./Herov6";
 import Herov7 from "./Herov7";
+import Herov8 from "./Herov8";
 
 function Hero() {
   return (
